@@ -1,6 +1,6 @@
 	/*
   	Flaticon icon font: Flaticon
-  	Creation date: 03/04/2019 06:02
+  	Creation date: 31/03/2019 22:35
   	*/
 
 @font-face {
@@ -25,7 +25,8 @@
 [class^="flaticon-"]:before, [class*=" flaticon-"]:before,
 [class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
   font-family: Flaticon;
-        font-style: normal;
+  speak: none;
+  font-style: normal;
   font-weight: normal;
   font-variant: normal;
   text-transform: none;
@@ -36,9 +37,11 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.flaticon-startup:before { content: "\f100"; }
-.flaticon-graphic-design:before { content: "\f101"; }
-.flaticon-settings:before { content: "\f102"; }
-.flaticon-idea:before { content: "\f103"; }
-.flaticon-smartphone:before { content: "\f104"; }
-.flaticon-head:before { content: "\f105"; }
+.flaticon-money-bag-with-dollar-symbol:before { content: "\f100"; }
+.flaticon-bar-chart:before { content: "\f101"; }
+.flaticon-line-chart:before { content: "\f102"; }
+.flaticon-box:before { content: "\f103"; }
+.flaticon-open:before { content: "\f104"; }
+.flaticon-settings:before { content: "\f105"; }
+.flaticon-target:before { content: "\f106"; }
+.flaticon-medal:before { content: "\f107"; }
